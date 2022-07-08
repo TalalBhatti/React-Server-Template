@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "name": "react-server-template",
+  "description": "A simple template code to run the client side in a MERN website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalalBhatti/React-Server-Template.git"
+  },
+  "keywords": [
+    "React",
+    "Server",
+    "For",
+    "React"
+  ],
+  "author": "TalalBhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalalBhatti/React-Server-Template/issues"
+  },
+  "homepage": "https://github.com/TalalBhatti/React-Server-Template#readme"
+}
